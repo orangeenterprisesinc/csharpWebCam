@@ -1,4 +1,8 @@
 # C# WebCam
+## Use Windows 8.1 SDK for compatibility with Windows Vista, Windows 7, and Windows 8, Windows 8.1, and Windows 10
+## Download Link for Windows SDKs: https://developer.microsoft.com/en-us/windows/downloads/sdk-archive
+
+
 This repository holds source code for [Versatile WebCam C# library](http://www.codeproject.com/Articles/125478/Versatile-WebCam-C-library) article:
 http://www.codeproject.com/Articles/125478/Versatile-WebCam-C-library
 
